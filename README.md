@@ -10,7 +10,7 @@
 
 - ⚙️ Strong understanding of **Software Development Life Cycle (SDLC), Software Testing Life Cycle (STLC)**
 
-- ⚡ Fun fact **Besides Testing, I enjoy traveling & hiking** 
+- ⚡ Fun fact **besides Testing, I enjoy traveling & hiking** 
 
 
 <img src="https://user-images.githubusercontent.com/14011726/94132137-7d4fc100-fe7c-11ea-8512-69f90cb65e48.gif" data-canonical-src="https://user-images.githubusercontent.com/14011726/94132137-7d4fc100-fe7c-11ea-8512-69f90cb65e48.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
